@@ -1,0 +1,8 @@
+.classpath
+.project
+.settings/
+
+# Maven
+log/
+target/
+/service-description.pdf
