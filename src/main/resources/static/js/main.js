@@ -8,6 +8,6 @@ $.fn.validate = function() {
             isValid = false;
         }
     });
-    
+
     return isValid;
 };

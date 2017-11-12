@@ -5,12 +5,3 @@ button {
     display: block;
     margin-top: 15px;
 }
-
-.message {
-	color: red;
-	font-weight: bold;
-}
-
-.display-none {
-    display: none;
-}
