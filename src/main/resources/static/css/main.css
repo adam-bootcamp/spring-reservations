@@ -1,0 +1,19 @@
+.message {
+    font-weight: bold;
+}
+
+.message.error-message {
+    color: red;
+}
+
+.message.succes-message {
+    color: green;
+}
+
+.display-none {
+    display: none;
+}
+
+input.input-error {
+    border-color: red;
+}

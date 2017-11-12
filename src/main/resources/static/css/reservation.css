@@ -7,5 +7,10 @@ button {
 }
 
 .message {
+	color: red;
+	font-weight: bold;
+}
+
+.display-none {
     display: none;
 }
